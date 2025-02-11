@@ -1,2 +1,2 @@
-# Diseño y desarrolloWEB
+#Diseño y desarrollo WEB
 Práctica 01
